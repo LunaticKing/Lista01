@@ -12,7 +12,7 @@
     <form action="calcularq1.php" method="get">
         <label for="base">Base:</label>
         <input type="number" name="base" class="retangulo">
-
+        <p>Teste</p>
         <label for="altura">Altura:</label>
         <input type="number" name="altura" class="retangulo">
 
