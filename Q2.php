@@ -14,7 +14,6 @@
         <input type="number" name="altura" id=""><br><br>
 
         <input type="submit" value="Calcular IMC"><br>
-        <img src='https://www.mundoboaforma.com.br/wp-content/uploads/2016/06/dieta-e-exercicios-saudaveis-e1465925719462.jpg'>
     </form>
 </body>
 </html>
